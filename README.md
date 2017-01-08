@@ -1,3 +1,2 @@
 # geoblock
-# ipset and firewalld country block shellscript
-
+ipset and firewalld country block shellscript
