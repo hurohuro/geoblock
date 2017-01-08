@@ -6,6 +6,7 @@ cd /tmp
 
 wget http://www.ipdeny.com/ipblocks/data/countries/all-zones.tar.gz 2> /dev/null
 tar zxf all-zones.tar.gz
+#bg is rss reader... orz
 rm -f jp.zone bg.zone
 
 firewall-cmd --permanent --direct --remove-rules ipv4 filter INPUT
