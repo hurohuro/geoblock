@@ -1,5 +1,5 @@
 # geoblock
-ipset and firewalld country block ShellScript
+ipsetとfirewalldを使った鎖国シェルスクリプトです。
 
-JP and BG are allow access.Other Countory full block.
-Connection and log cleaner Shell Script.
+日本とブルガリアは接続が許可されています。
+他の国は全てブロック対象となります。シェルスクリプトを実行することによって、コネクションやログが見やすくなります。
